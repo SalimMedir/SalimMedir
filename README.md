@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Salim | Salut, je suis Salim
 
-🇨🇲 Douala, Cameroun  
+ Tchad
 🚀 Founder & Lead Developer of **[Tiinver](https://tiinver.com)** — The social network that pays African creators  
 🏗️ I build real products, not just side projects.
 
