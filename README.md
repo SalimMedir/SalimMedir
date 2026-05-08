@@ -1,16 +1,38 @@
-## Hi there 👋
+# Bonjour, je suis Salim Medir 👋
 
-<!--
-**SalimMedir/SalimMedir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Fondateur & Développeur de **Tiinver**  
+Le réseau social qui rémunère les créateurs africains 🌍
 
-Here are some ideas to get you started:
+📱 [Voir Tiinver sur Google Play](https://play.google.com/store/apps/details?id=com.tiinver)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack technique
+
+**Mobile**
+- Kotlin / Java (Android natif)
+
+**Backend**
+- PHP — API REST (CRUD)
+- Node.js — Communication temps réel (Socket.io) & Blockchain
+
+**Base de données**
+- MySQL
+
+---
+
+## 💼 Ce que je peux faire pour vous
+
+✅ Développement d'applications Android natives (Kotlin/Java)  
+✅ Création d'APIs REST robustes en PHP  
+✅ Systèmes temps réel avec Node.js & Socket.io  
+✅ Intégration Blockchain  
+✅ Intégration Mobile Money (MTN, Orange...)  
+✅ Plateformes sociales & monétisation de contenu  
+
+---
+
+## 📩 Me contacter
+
+- 🌐 [tiinver.com](https://tiinver.com)
+- 📧 salimmedirsm@gmail.com
